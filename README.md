@@ -1,7 +1,7 @@
 ### Hello there 👋 It's Abdullah Al Masud Tushar :smiley:
 --------
 
-**Facts you might be wondering about -**
+:sparkles: **Facts you might be wondering about -**
 
 - 🔭 **Currently working on:** _AWS, Serverless architecture, Python, Django, Bootstrap, Javascript_
 - ⚡ **Getting better at:** _System design principal, AWS components_
