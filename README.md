@@ -53,7 +53,7 @@
 
 ---
 
-:sparkles: **Facts you might be wondering about **
+:sparkles: **Facts you might be wondering about**
 
 - 🔭 **Currently working on:** AWS, Serverless architecture, Python, Django, Bootstrap, Javascript
 - ⚡ **Getting better at:** System design principal, AWS components
