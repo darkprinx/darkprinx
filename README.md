@@ -1,5 +1,26 @@
-### Hello there 👋 It's Abdullah Al Masud Tushar :smiley:
---------
+
+<h3 align="center">Hello there 👋 It's Abdullah Al Masud Tushar 😃 </h3>
+<h5 align="center"><i>Software Engineer 🌱 Mindful Explorer 🌱 Ambivert</i></h5>
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rctushar07" target="_blank">
+  <img alt="Tushar-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
+  </a>
+
+  <a href="https://medium.com/@darkprinx" target="_blank">
+    <img alt="Tushar-Medium" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" width="30" height="30" >
+  </a>
+  
+  <a href="https://stackoverflow.com/u/10252307" target="_blank">
+    <img alt="Tushar-Stackoverflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" width="30" height="30" >
+  </a>
+
+  <a href="https://twitter.com/severuscnell" target="_blank">
+    <img alt="Tushar-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
+  </a>
+</p>
+
+------------------------------
 
 :sparkles: **Facts you might be wondering about -**
 
@@ -16,3 +37,5 @@
 <p align="center">
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdarkprinx%2Fdarkprinx%2Fblob%2Fmaster%2FREADME.md" alt="Hits">
 </p>
+
+
