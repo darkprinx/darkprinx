@@ -1,6 +1,6 @@
 
-<h3 align="center">Hello there 👋 It's Abdullah Al Masud Tushar 😃 </h3>
-<h5 align="center"><i>Software Engineer 🌱 Mindful Explorer 🌱 Ambivert</i></h5>
+<h2 align="center">Hello there 👋 It's Abdullah Al Masud Tushar 😃 </h2>
+<h4 align="center"><i>Software Engineer 🌱 Mindful Explorer 🌱 Ambivert</i></h4>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/rctushar07" target="_blank">
