@@ -11,3 +11,7 @@
 - :coffee: **Learn more about me**: _Have a ride on [darkprinx.xyz](https://darkprinx.xyz)_
 - 📫 **How to reach me:** _knock! knock! at rctushar07@gmail.com_
 - :purple_heart: **Personal Interest:** _Programming, Philosophy, Psychology_
+
+
+--------
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdarkprinx%2Fdarkprinx%2Fblob%2Fmaster%2FREADME.md)
