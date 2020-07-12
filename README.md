@@ -13,5 +13,6 @@
 - :purple_heart: **Personal Interest:** _Programming, Philosophy, Psychology_
 
 
---------
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdarkprinx%2Fdarkprinx%2Fblob%2Fmaster%2FREADME.md)
+<p style="text-align: center;">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdarkprinx%2Fdarkprinx%2Fblob%2Fmaster%2FREADME.md" alt="Hits">
+</p>
