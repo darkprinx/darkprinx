@@ -29,11 +29,11 @@
 
 #### Database
 
-<code><img title="DynamoDB" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png"></code> <code><img title="Redis" height="20" src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png"></code> <code><img title="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img title="PostgreSQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> <code><img title="SQLite" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>
+<code><img title="DynamoDB" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png"></code> <code><img title="Redis" height="20" src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png"></code> <code><img title="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img title="PostgreSQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> <code><img title="SQLite" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code>  <code><img title="MongoDB" height="20" src="https://img.icons8.com/color/452/mongodb.png"></code>
 
 #### Frameworks
 
-<code><img title="Django" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> <code><img title="Django REST" height="20" src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=022bf4c5b7efa27ab20395c0da4eff7b"></code>
+<code><img title="Django" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> <code><img title="Django REST" height="20" src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=022bf4c5b7efa27ab20395c0da4eff7b"></code> <code><img title="Node.js" height="20" src="https://img1.pnghut.com/20/16/0/e9fBQ0Sz4i/mobile-app-development-react-npm-logo-expressjs.jpg"></code>
 
 
 #### AWS Components
