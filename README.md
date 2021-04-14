@@ -60,11 +60,11 @@
 
 :sparkles: **Facts you might be wondering about**
 
-- 🔭 **Currently working on:** AWS, Serverless architecture, Python, Django, Bootstrap, Javascript
+- 🔭 **Currently working with:** AWS, Microservice architecture, Python, Django, Django REST framework, Bootstrap, Javascript
 - ⚡ **Getting better at:** System design principal, AWS components, DevOps automation
-- :star2: **Experienced project domain:** Trivia game, Personal health management, SEO tools, Archived video streaming, Ads Recommender, Live Gaming Ranklist, Real-time opponent match making
-- 🌱 **Discovering queue:** React.js, CI/CD pipeline tools, Docker
-- 💬 **Ask me about:** Serverless architecture, DynamoDB, AWS Lambda, MTV
+- :star2: **Experienced project domain:** Trivia game, Personal health management, SEO tools, Archived video streaming, Ads Recommender, Live Gaming Ranklist, Real-time opponent match making, Payment Integration, Transportation management system
+- 🌱 **Discovering queue:** CI/CD pipeline tools, Docker
+- 💬 **Ask me about:** Serverless architecture, DynamoDB, AWS, MTV
 - :coffee: **Learn more about me**: Have a ride on [darkprinx.xyz](https://darkprinx.xyz)
 - 📫 **How to reach me:** knock! knock! at rctushar07@gmail.com
 - :purple_heart: **Personal Interest:** Programming, Philosophy, Psychology
