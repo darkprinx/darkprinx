@@ -9,14 +9,6 @@
   <a href="https://medium.com/@darkprinx" target="_blank">
     <img alt="Tushar-Medium" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" width="30" height="30" >
   </a>
-  
-  <a href="https://stackoverflow.com/u/10252307" target="_blank">
-    <img alt="Tushar-Stackoverflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" width="30" height="30" >
-  </a>
-
-  <a href="https://twitter.com/severuscnell" target="_blank">
-    <img alt="Tushar-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
-  </a>
 </p>
 
 <p align="center">
