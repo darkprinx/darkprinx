@@ -59,7 +59,7 @@
 - 💬 **Ask me about:** Serverless architecture, DynamoDB, AWS, MTV
 - :coffee: **Learn more about me**: Have a ride on [darkprinx.xyz](https://darkprinx.xyz)
 - 📫 **How to reach me:** knock! knock! at rctushar07@gmail.com
-- :purple_heart: **Personal Interest:** Programming, Philosophy, Psychology
+- :purple_heart: **Personal Interest:** Tech, Psychology, Islamic Studies, Travel
 
 <p align="center">
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdarkprinx%2Fdarkprinx%2Fblob%2Fmaster%2FREADME.md" alt="Hits">
