@@ -88,7 +88,7 @@ interests   : System Design · Distributed Systems · Backend architecture · Cl
 | Platform | Company | Scale | Domain |
 |:---|:---|:---|:---|
 | **Volue Insight** | Cefalo | **$550M** platform | Green energy market data & forecasting |
-| **Recruitment Platform** | Cefalo | **1.5 years** development | Full-stack job matching & applicant tracking |
+| **Recruitment Platform** | Cefalo | **Early-stage startup** | Full-stack job matching & applicant tracking |
 | **Trivia Backend** | Brainstation 23 | **50M+ requests/day** | High-traffic consumer engagement (Robi Telecom) |
 | **Ferdia ERP** | Brainstation 23 | **$2.33M funded** startup | Coach & charter bus operations digitization |
 | **MenuDao SaaS** | Independent | **Full-stack** | Restaurant digital menu management with QR codes |
