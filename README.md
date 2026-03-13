@@ -22,13 +22,12 @@ role        : Senior Software Engineer
 location    : Dhaka, Bangladesh 🇧🇩
 experience  : 7+ years — backend, cloud & data engineering
 companies   : Cefalo (current) · Brainstation 23
-focus       : Scalable platform systems, AWS (15+ services), remote-first teams
-open_source : break-the-ice-with-python — 3,100+ ⭐ & 1,500+ forks
-fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day 🚀"
+interests   : System Design · Distributed Systems · Backend architecture · Cloud infrastructure · Data engineering
 ```
 
 - 🏢 **Senior Software Engineer @ [Cefalo](https://www.cefalo.com)** — part of a 200+ engineer offshore team for Norwegian industries
 - 🌍 7+ years delivering production platforms in **green energy, recruitment, transportation & high-traffic consumer products** with European remote teams
+- 🏗️ **System Design & Distributed Systems** — architecting scalable backends handling 100K+ events & 50M+ daily requests
 - 📉 Reduced cloud infrastructure costs by **75%** through API optimisation, query tuning & caching
 - 🚢 Led a cargo-tracking algorithm analysing **100K+ historical events** from 700+ LNG ships
 - 📈 Boosted user engagement by **40%** via scalable chat & friendship features on AWS
@@ -72,7 +71,32 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 
 ---
 
-<!-- Tech Stack -->
+<!-- Industries & Platforms -->
+## 🏢 Industry Domains & Platforms
+
+<div align="center">
+
+### **Industries & Markets**
+
+| 🌱 | ⚡ | 🚛 | 👔 |
+|:---:|:---:|:---:|:---:|
+| **Green Energy** | **SaaS & Cloud** | **Transportation** | **Recruitment** |
+| Market data & forecasting | High-scale consumer products | Fleet & logistics ops | Talent matching systems |
+
+### **Key Platforms & Systems**
+
+| Platform | Company | Scale | Domain |
+|:---|:---|:---|:---|
+| **Volue Insight** | Cefalo | **$550M** platform | Green energy market data & forecasting |
+| **Recruitment Platform** | Cefalo | **1.5 years** development | Full-stack job matching & applicant tracking |
+| **Trivia Backend** | Brainstation 23 | **50M+ requests/day** | High-traffic consumer engagement (Robi Telecom) |
+| **Ferdia ERP** | Brainstation 23 | **$2.33M funded** startup | Coach & charter bus operations digitization |
+| **MenuDao SaaS** | Independent | **Full-stack** | Restaurant digital menu management with QR codes |
+
+
+</div>
+
+---
 ## 🛠️ Tech Arsenal
 
 
@@ -106,47 +130,6 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 
 ---
 
-<!-- Education & Competitive Programming -->
-## 🎓 Education & Competitive Programming
-
-**[East West University](https://ewubd.edu.bd/)** — BSc in Computer Science & Engineering *(Dec 2018)*
-
-<p align="center">
-  <a href="https://www.hackerrank.com/rctushar07" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2237-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.codechef.com/users/rctushar07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-2001-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://codeforces.com/profile/rctushar07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1554-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
-
-- 🥉 **3rd place** — City Inter-University Programming Contest 2017 *(40 teams)*
-- 🏅 **29th place** — ACM ICPC Dhaka Regional 2017 *(150 teams)*
-- 👨‍🏫 Mentored **100+ university students** in algorithms & data structures
-
----
-
-<!-- Certifications -->
-## 📜 Certifications & Achievements
-
-<div align="center">
-
-| | |
-|:---:|:---:|
-| **[🏆 AWS Certified Solutions Architect](https://www.credly.com/badges/aws-solutions-architect-associate)** | **[🏆 Professional Scrum Master™ I](https://www.scrum.org/user/1145097/)** |
-| **Amazon Web Services** | **Scrum.org** |
-| *Issued: Feb 2020* | *Certified* |
-| ✅ EC2, S3, Lambda, RDS | ✅ Scrum Framework & Practices |
-| ✅ VPC, IAM, CloudFront | ✅ Team Coordination & Velocity |
-| ✅ Auto Scaling, Load Balancing | ✅ Sprint Planning & Retrospectives |
-| ✅ 15+ AWS services expertise | ✅ Agile Mindset & Delivery |
-
-</div>
-
----
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats & Metrics
@@ -161,8 +144,6 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darkprinx&theme=tokyonight" height="180" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darkprinx&theme=tokyonight" height="180" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darkprinx&theme=tokyonight" height="180" />
 </p>
 
 <!-- Streak -->
@@ -211,6 +192,48 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 
 ---
 
+<!-- Certifications -->
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+</div>
+
+<table align="center" width="95%">
+  <tr>
+    <td align="center" width="50%" style="border-right: 1px solid #30363d; padding: 20px;">
+      <h3><a href="https://www.credly.com/badges/aws-solutions-architect-associate" target="_blank">🔷 AWS Certified Solutions Architect – Associate</a></h3>
+      <p><b>Amazon Web Services</b> | <i>Issued: Feb 2020</i></p>
+      <hr style="border: 1px solid #21262d; margin: 15px 0;">
+      <p align="left">
+        <b>Core Competencies:</b><br>
+        ✓ EC2, S3, Lambda, RDS<br>
+        ✓ VPC, IAM, CloudFront<br>
+        ✓ Auto Scaling & Load Balancing<br>
+        ✓ 15+ AWS services expertise<br>
+        ✓ Cost optimization & security<br>
+      </p>
+      <p><sub>Applied in production across multiple enterprise platforms</sub></p>
+    </td>
+    <td align="center" width="50%" style="padding: 20px;">
+      <h3><a href="https://www.scrum.org/user/1145097/" target="_blank">⚡ Professional Scrum Master™ I (PSM I)</a></h3>
+      <p><b>Scrum.org</b> | <i>Certified</i></p>
+      <hr style="border: 1px solid #21262d; margin: 15px 0;">
+      <p align="left">
+        <b>Core Competencies:</b><br>
+        ✓ Scrum Framework & Practices<br>
+        ✓ Team Coordination & Velocity<br>
+        ✓ Sprint Planning & Retrospectives<br>
+        ✓ Agile Mindset & Delivery<br>
+        ✓ Stakeholder Management<br>
+      </p>
+      <p><sub>Actively mentoring 20+ engineers on agile practices</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- Dev Quote -->
 ## 💬 Random Dev Quote
 
@@ -223,17 +246,45 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 <!-- Connect -->
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/rctushar07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rctushar07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:rctushar07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rctushar07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/darkprinx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-darkprinx-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+### 📬 **Open to collaborations, mentoring & exciting opportunities!**
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://linkedin.com/in/rctushar07" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a><br><br>
+      <b>LinkedIn</b><br>
+      <sub>Professional network &<br>work experience</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:rctushar07@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a><br><br>
+      <b>Email</b><br>
+      <sub>For direct communication<br>& project inquiries</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/darkprinx" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a><br><br>
+      <b>GitHub</b><br>
+      <sub>Explore my repositories<br>& contributions</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+---
+
+### 💡 **Let's build something amazing together!** 🚀
+
+</div>
 
 ---
 
