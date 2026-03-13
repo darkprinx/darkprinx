@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0a1a"/>
+      <stop offset="20%"  stop-color="#1a0a2e"/>
+      <stop offset="50%"  stop-color="#2d1b69"/>
+      <stop offset="80%"  stop-color="#1a0a2e"/>
+      <stop offset="100%" stop-color="#0a0a1a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Gradient background -->
+  <rect width="1200" height="120" fill="url(#footerGrad)"/>
+
+  <!-- Wave cutout at top — fill matches GitHub dark background -->
+  <path fill="#0D1117" d="M0,45 C300,5 900,85 1200,45 L1200,0 L0,0 Z"/>
+</svg>
+

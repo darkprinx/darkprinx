@@ -1,14 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdullah%20Al%20Masud%20Tushar&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Cloud%20%E2%80%A2%207%2B%20Years%20Remote-First&descSize=16&descAlignY=55" width="100%" />
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/darkprinx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Abdullah+Al+Masud+Tushar;%F0%9F%9A%80+Senior+SWE+%7C+Backend+%26+Cloud+%7C+7%2B+Years;%E2%9A%A1+Reduced+cloud+costs+75%25+%7C+50M%2B+requests%2Fday" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- Profile Views & Followers -->
 <p align="center">
@@ -28,7 +22,7 @@ role        : Senior Software Engineer
 location    : Dhaka, Bangladesh 🇧🇩
 experience  : 7+ years — backend, cloud & data engineering
 companies   : Cefalo (current) · Brainstation 23
-focus       : Scalable backend systems, AWS (15+ services), remote-first teams
+focus       : Scalable platform systems, AWS (15+ services), remote-first teams
 open_source : break-the-ice-with-python — 3,100+ ⭐ & 1,500+ forks
 fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day 🚀"
 ```
@@ -115,20 +109,23 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats & Metrics
 
+<!-- Profile details / contribution graph -->
 <p align="center">
-  <a href="https://github.com/darkprinx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkprinx&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&bg_color=0D1117" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/darkprinx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkprinx&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&bg_color=0D1117" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkprinx&theme=tokyonight" width="100%" />
 </p>
 
+<!-- Three stat cards -->
 <p align="center">
-  <a href="https://github.com/darkprinx">
-    <img src="https://streak-stats.demolab.com/?user=darkprinx&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darkprinx&theme=tokyonight" height="180" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darkprinx&theme=tokyonight" height="180" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darkprinx&theme=tokyonight" height="180" />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=darkprinx&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
 </p>
 
 <!-- Activity Graph -->
@@ -139,18 +136,16 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 </p>
 
 
----
-
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/darkprinx/break-the-ice-with-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=break-the-ice-with-python&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=break-the-ice-with-python&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="140" />
   </a>
   &nbsp;
   <a href="https://github.com/darkprinx/100-plus-Python-programming-exercises-extended">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=100-plus-Python-programming-exercises-extended&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=100-plus-Python-programming-exercises-extended&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="140" />
   </a>
 </p>
 
@@ -239,7 +234,7 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+  <img src="./assets/footer.svg" width="100%" />
 </p>
 
 <p align="center">

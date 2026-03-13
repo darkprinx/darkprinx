@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0a1a"/>
+      <stop offset="20%"  stop-color="#1a0a2e"/>
+      <stop offset="50%"  stop-color="#2d1b69"/>
+      <stop offset="80%"  stop-color="#1a0a2e"/>
+      <stop offset="100%" stop-color="#0a0a1a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Gradient background -->
+  <rect width="1200" height="200" fill="url(#headerGrad)"/>
+
+  <!-- Wave cutout at bottom — fill matches GitHub dark background -->
+  <path fill="#0D1117" d="M0,155 C300,200 900,105 1200,160 L1200,200 L0,200 Z"/>
+
+  <!-- Name -->
+  <text
+    x="600" y="82"
+    font-family="'Trebuchet MS',Helvetica,Arial,sans-serif"
+    font-size="36"
+    font-weight="700"
+    fill="#ffffff"
+    text-anchor="middle"
+    letter-spacing="0.5"
+  >Abdullah Al Masud Tushar</text>
+
+  <!-- Subtitle -->
+  <text
+    x="600" y="114"
+    font-family="'Trebuchet MS',Helvetica,Arial,sans-serif"
+    font-size="15"
+    fill="rgba(255,255,255,0.80)"
+    text-anchor="middle"
+    letter-spacing="0.3"
+  >Senior Software Engineer  •  Backend &amp; Cloud  •  7+ Years Remote-First</text>
+</svg>
+
