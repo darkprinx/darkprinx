@@ -106,6 +106,48 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
 
 ---
 
+<!-- Education & Competitive Programming -->
+## 🎓 Education & Competitive Programming
+
+**[East West University](https://ewubd.edu.bd/)** — BSc in Computer Science & Engineering *(Dec 2018)*
+
+<p align="center">
+  <a href="https://www.hackerrank.com/rctushar07" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2237-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/rctushar07" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-2001-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://codeforces.com/profile/rctushar07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1554-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+- 🥉 **3rd place** — City Inter-University Programming Contest 2017 *(40 teams)*
+- 🏅 **29th place** — ACM ICPC Dhaka Regional 2017 *(150 teams)*
+- 👨‍🏫 Mentored **100+ university students** in algorithms & data structures
+
+---
+
+<!-- Certifications -->
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **[🏆 AWS Certified Solutions Architect](https://www.credly.com/badges/aws-solutions-architect-associate)** | **[🏆 Professional Scrum Master™ I](https://www.scrum.org/user/1145097/)** |
+| **Amazon Web Services** | **Scrum.org** |
+| *Issued: Feb 2020* | *Certified* |
+| ✅ EC2, S3, Lambda, RDS | ✅ Scrum Framework & Practices |
+| ✅ VPC, IAM, CloudFront | ✅ Team Coordination & Velocity |
+| ✅ Auto Scaling, Load Balancing | ✅ Sprint Planning & Retrospectives |
+| ✅ 15+ AWS services expertise | ✅ Agile Mindset & Delivery |
+
+</div>
+
+---
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats & Metrics
 
@@ -128,68 +170,30 @@ fun_fact    : "Slashed 75% off cloud bills and my code handles 50M+ requests/day
   <img src="https://streak-stats.demolab.com/?user=darkprinx&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" />
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/darkprinx">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkprinx&bg_color=0D1117&color=70A5FD&line=BF91F3&point=FFFFFF&area=true&area_color=BF91F3&hide_border=true" width="95%" />
-  </a>
-</p>
+---
 
-
-<!-- Featured Projects -->
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/darkprinx/break-the-ice-with-python">
+  <a href="https://github.com/darkprinx/break-the-ice-with-python" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=break-the-ice-with-python&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="140" />
   </a>
   &nbsp;
-  <a href="https://github.com/darkprinx/100-plus-Python-programming-exercises-extended">
+  <a href="https://github.com/darkprinx/100-plus-Python-programming-exercises-extended" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=100-plus-Python-programming-exercises-extended&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="140" />
   </a>
 </p>
 
-> 🐍 **break-the-ice-with-python** — 100+ Python problems with detailed solutions. **3,100+ ⭐ · 1,500+ forks** — helping thousands of developers learn Python fundamentals.
+> 🐍 **[break-the-ice-with-python](https://github.com/darkprinx/break-the-ice-with-python)** — 100+ Python problems with detailed solutions. **3,100+ ⭐ · 1,500+ forks** — helping thousands of developers learn Python fundamentals.
 
-> 🍽️ **MenuDao** — Free SaaS for restaurant digital menu management. Built with Next.js, MongoDB, NextAuth (Google OAuth + JWT), SWR & QR code generation.
+> 🍽️ **[MenuDao](https://github.com/darkprinx/MenuDao)** — Free SaaS for restaurant digital menu management. Built with Next.js, MongoDB, NextAuth (Google OAuth + JWT), SWR & QR code generation.
 
 <p align="center">
-  <a href="https://github.com/darkprinx?tab=repositories&sort=stargazers">
+  <a href="https://github.com/darkprinx?tab=repositories&sort=stargazers" target="_blank">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-%E2%86%92-70A5FD?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
----
-
-<!-- Education & Competitive Programming -->
-## 🎓 Education & Competitive Programming
-
-**East West University** — BSc in Computer Science & Engineering *(Dec 2018)*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-2237-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-2001-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeforces-1554-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
-- 🥉 **3rd place** — City Inter-University Programming Contest 2017 *(40 teams)*
-- 🏅 **29th place** — ACM ICPC Dhaka Regional 2017 *(150 teams)*
-- 👨‍🏫 Mentored **100+ university students** in algorithms & data structures
-
----
-
-<!-- Certifications -->
-## 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Professional_Scrum_Master-PSM%20I-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-</p>
-
-| Certification | Issuer | Issued |
-|---|---|---|
-| AWS Certified Solutions Architect – Associate | Amazon Web Services | Feb 2020 |
-| Professional Scrum Master™ I (PSM I) | Scrum.org | — |
 
 ---
 

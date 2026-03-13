@@ -1,18 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" preserveAspectRatio="xMidYMid slice">
   <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0a0a1a"/>
-      <stop offset="20%"  stop-color="#1a0a2e"/>
+    <!-- Animated gradient matching header -->
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0f0f2e"/>
+      <stop offset="25%"  stop-color="#1a0a3e"/>
       <stop offset="50%"  stop-color="#2d1b69"/>
-      <stop offset="80%"  stop-color="#1a0a2e"/>
-      <stop offset="100%" stop-color="#0a0a1a"/>
+      <stop offset="75%"  stop-color="#3d2a7e"/>
+      <stop offset="100%" stop-color="#1a0a2e"/>
     </linearGradient>
+
+    <!-- Radial gradient overlay -->
+    <radialGradient id="footerGlow" cx="50%" cy="70%" r="60%">
+      <stop offset="0%"   stop-color="rgba(191,145,243,0.15)"/>
+      <stop offset="100%" stop-color="rgba(45,27,105,0)"/>
+    </radialGradient>
+
+    <!-- Wave animation for footer -->
+    <style>
+      @keyframes footerWave1 {
+        0%   { transform: translateX(0) translateY(0); }
+        25%  { transform: translateX(-12px) translateY(3px); }
+        50%  { transform: translateX(0) translateY(0); }
+        75%  { transform: translateX(12px) translateY(-3px); }
+        100% { transform: translateX(0) translateY(0); }
+      }
+      @keyframes footerWave2 {
+        0%   { transform: translateX(0) translateY(0); }
+        25%  { transform: translateX(10px) translateY(-2px); }
+        50%  { transform: translateX(0) translateY(0); }
+        75%  { transform: translateX(-10px) translateY(2px); }
+        100% { transform: translateX(0) translateY(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 1; }
+      }
+      .footer-wave-1 { animation: footerWave1 7s ease-in-out infinite; transform-origin: center; }
+      .footer-wave-2 { animation: footerWave2 9s ease-in-out infinite; transform-origin: center; }
+      .pulse-glow { animation: pulse 4s ease-in-out infinite; }
+    </style>
   </defs>
 
-  <!-- Gradient background -->
+  <!-- Base gradient background -->
   <rect width="1200" height="120" fill="url(#footerGrad)"/>
 
-  <!-- Wave cutout at top — fill matches GitHub dark background -->
-  <path fill="#0D1117" d="M0,45 C300,5 900,85 1200,45 L1200,0 L0,0 Z"/>
+  <!-- Glow effect -->
+  <rect width="1200" height="120" fill="url(#footerGlow)" class="pulse-glow"/>
+
+  <!-- Animated wave 1 (top wave) -->
+  <g class="footer-wave-1">
+    <path fill="rgba(191,145,243,0.3)" d="M0,45 Q300,25 600,45 T1200,45 L1200,0 L0,0 Z"/>
+  </g>
+
+  <!-- Animated wave 2 (mid wave) -->
+  <g class="footer-wave-2">
+    <path fill="rgba(61,42,126,0.4)" d="M0,35 Q300,20 600,40 T1200,35 L1200,0 L0,0 Z"/>
+  </g>
+
+  <!-- Wave cutout at top (solid) — fill matches GitHub dark background -->
+  <path fill="#0D1117" d="M0,25 C200,15 400,35 600,20 C800,5 1000,40 1200,25 L1200,0 L0,0 Z"/>
+
+  <!-- Decorative accent line at bottom -->
+  <line x1="0" y1="27" x2="1200" y2="27" stroke="rgba(112,165,253,0.15)" stroke-width="1.5" stroke-dasharray="8,4"/>
 </svg>
 

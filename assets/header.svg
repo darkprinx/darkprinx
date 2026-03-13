@@ -1,39 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" preserveAspectRatio="xMidYMid slice">
   <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0a0a1a"/>
-      <stop offset="20%"  stop-color="#1a0a2e"/>
+    <!-- Animated gradient -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0f0f2e"/>
+      <stop offset="25%"  stop-color="#1a0a3e"/>
       <stop offset="50%"  stop-color="#2d1b69"/>
-      <stop offset="80%"  stop-color="#1a0a2e"/>
-      <stop offset="100%" stop-color="#0a0a1a"/>
+      <stop offset="75%"  stop-color="#3d2a7e"/>
+      <stop offset="100%" stop-color="#1a0a2e"/>
     </linearGradient>
+
+    <!-- Radial gradient overlay for depth -->
+    <radialGradient id="glowEffect" cx="50%" cy="30%" r="70%">
+      <stop offset="0%"   stop-color="rgba(112,165,253,0.2)"/>
+      <stop offset="100%" stop-color="rgba(45,27,105,0)"/>
+    </radialGradient>
+
+    <!-- Wave animation -->
+    <style>
+      @keyframes wave1 {
+        0%   { transform: translateX(0) translateY(0); }
+        25%  { transform: translateX(10px) translateY(-2px); }
+        50%  { transform: translateX(0) translateY(0); }
+        75%  { transform: translateX(-10px) translateY(2px); }
+        100% { transform: translateX(0) translateY(0); }
+      }
+      @keyframes wave2 {
+        0%   { transform: translateX(0) translateY(0); }
+        25%  { transform: translateX(-8px) translateY(2px); }
+        50%  { transform: translateX(0) translateY(0); }
+        75%  { transform: translateX(8px) translateY(-2px); }
+        100% { transform: translateX(0) translateY(0); }
+      }
+      @keyframes shimmer {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      .wave-path-1 { animation: wave1 6s ease-in-out infinite; transform-origin: center; }
+      .wave-path-2 { animation: wave2 8s ease-in-out infinite; transform-origin: center; }
+      .shimmer-text { animation: shimmer 3s ease-in-out infinite; }
+    </style>
   </defs>
 
-  <!-- Gradient background -->
+  <!-- Base gradient background -->
   <rect width="1200" height="200" fill="url(#headerGrad)"/>
 
-  <!-- Wave cutout at bottom — fill matches GitHub dark background -->
-  <path fill="#0D1117" d="M0,155 C300,200 900,105 1200,160 L1200,200 L0,200 Z"/>
+  <!-- Glow effect overlay -->
+  <rect width="1200" height="200" fill="url(#glowEffect)"/>
+
+  <!-- Animated wave 1 (background wave) -->
+  <g class="wave-path-1">
+    <path fill="rgba(45,27,105,0.3)" d="M0,140 Q300,120 600,140 T1200,140 L1200,200 L0,200 Z"/>
+  </g>
+
+  <!-- Animated wave 2 (mid wave) -->
+  <g class="wave-path-2">
+    <path fill="rgba(61,42,126,0.4)" d="M0,160 Q300,145 600,165 T1200,160 L1200,200 L0,200 Z"/>
+  </g>
+
+  <!-- Wave cutout at bottom (solid) -->
+  <path fill="#0D1117" d="M0,170 C200,185 400,155 600,175 C800,195 1000,150 1200,170 L1200,200 L0,200 Z"/>
+
+  <!-- Decorative accent line -->
+  <line x1="0" y1="168" x2="1200" y2="168" stroke="rgba(112,165,253,0.2)" stroke-width="2" stroke-dasharray="10,5"/>
 
   <!-- Name -->
   <text
-    x="600" y="82"
+    x="600" y="75"
     font-family="'Trebuchet MS',Helvetica,Arial,sans-serif"
-    font-size="36"
-    font-weight="700"
+    font-size="40"
+    font-weight="800"
     fill="#ffffff"
     text-anchor="middle"
-    letter-spacing="0.5"
+    letter-spacing="1"
   >Abdullah Al Masud Tushar</text>
 
   <!-- Subtitle -->
   <text
-    x="600" y="114"
+    x="600" y="110"
     font-family="'Trebuchet MS',Helvetica,Arial,sans-serif"
-    font-size="15"
-    fill="rgba(255,255,255,0.80)"
+    font-size="14"
+    fill="rgba(255,255,255,0.85)"
     text-anchor="middle"
-    letter-spacing="0.3"
+    letter-spacing="0.5"
   >Senior Software Engineer  •  Backend &amp; Cloud  •  7+ Years Remote-First</text>
+
+  <!-- Accent badge -->
+  <rect x="500" y="125" width="200" height="28" rx="14" fill="rgba(112,165,253,0.15)" stroke="rgba(112,165,253,0.3)" stroke-width="1.5"/>
+  <text
+    x="600" y="145"
+    font-family="'Trebuchet MS',Helvetica,Arial,sans-serif"
+    font-size="12"
+    fill="rgba(112,165,253,0.9)"
+    text-anchor="middle"
+    letter-spacing="0.5"
+  >🚀 Building Scalable Systems</text>
 </svg>
 
