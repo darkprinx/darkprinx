@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=200&section=header&text=Abdullah%20Al%20Masud%20Tushar&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%207%2B%20Years&descSize=15&descAlignY=55" width="100%" />
+  <img src="./assets/cover.png" alt="Abdullah Al Masud Tushar cover banner" width="100%" />
 </p>
 
 
