@@ -34,42 +34,6 @@ interests   : System Design · Distributed Systems · Backend architecture · Cl
 - 👨‍🏫 Mentored **20+ junior engineers** on AWS (15+ services) across multiple projects
 - 🏆 Competitive programmer — **HackerRank 2237 · CodeChef 2001 · Codeforces 1554**
 
----
-
-<!-- Impact Stats -->
-## 🎯 Career Impact at a Glance
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-  <h2>7+</h2>
-  <b>Years of Experience</b><br>
-  <sub>Backend, Cloud & Data Eng</sub>
-</td>
-<td align="center" width="20%">
-  <h2>75%</h2>
-  <b>Cloud Cost Reduction</b><br>
-  <sub>APIs + DB + Caching</sub>
-</td>
-<td align="center" width="20%">
-  <h2>50M+</h2>
-  <b>Requests / Day</b><br>
-  <sub>Trivia app at Robi Telecom</sub>
-</td>
-<td align="center" width="20%">
-  <h2>40%</h2>
-  <b>Engagement Boost</b><br>
-  <sub>AWS Lambda + DynamoDB</sub>
-</td>
-<td align="center" width="20%">
-  <h2>3.1K⭐</h2>
-  <b>GitHub Stars</b><br>
-  <sub>break-the-ice-with-python</sub>
-</td>
-</tr>
-</table>
-
----
 
 <!-- Industries & Platforms -->
 ## 🏢 Industry Domains & Platforms
