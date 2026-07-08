@@ -4,6 +4,13 @@
 </p>
 
 
+<!-- Portfolio CTA -->
+<p align="center">
+  <a href="https://darkprinx.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-darkprinx.github.io-2ea44f?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <!-- Profile Views & Followers -->
 <p align="center">
   <a href="https://github.com/darkprinx"><img src="https://komarev.com/ghpvc/?username=darkprinx&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" /></a>&nbsp;
