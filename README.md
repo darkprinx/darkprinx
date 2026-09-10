@@ -1,8 +1,8 @@
 
 <!-- Portfolio CTA -->
 <p align="center">
-  <a href="https://darkprinx.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-darkprinx.github.io-2ea44f?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <a href="https://darkprinx.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-darkprinx.vercel.app-2ea44f?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -19,20 +19,21 @@
 
 ```yaml
 name        : Abdullah Al Masud Tushar
-role        : Senior Software Engineer — Backend-Heavy Full-Stack
+role        : Senior Software Engineer — Backend-Heavy Full-Stack & Data Engineering
 location    : Dhaka, Bangladesh 🇧🇩
-experience  : 7+ years — backend systems, distributed architecture & cloud engineering
-companies   : Cefalo (current) · Brainstation 23
+experience  : 7+ years remote collaboration with European business across green energy, recruitment & transportation
 focus       : Backend Architecture · Distributed Systems · Cloud Infrastructure · Data Engineering
 ```
 
-- 🏢 **Senior Software Engineer @ [Cefalo](https://www.cefalo.com)** — building production-grade backend systems for Norwegian industries
-- 🏗️ **Backend & Distributed Systems first** — architecting scalable services handling **50M+ requests/day** and **100K+ real-time events**
-- 📉 Reduced cloud infrastructure costs by **75%** through API optimisation, query tuning & intelligent caching
-- 🚢 Led a cargo-tracking algorithm analysing **100K+ historical events** from 700+ LNG ships
+- 📉 Reduced cloud infrastructure costs by **75%** through API optimisation, query tuning & caching
+- 🌳 Owned org-unit management, solving complex hierarchical data operation with MPTT — reducing query complexity **O(N) → O(1)**
+- 🔒 Secured exposed customer data in S3 buckets with proper ACL configuration & dynamic URL dispatcher, closing a critical vulnerability with minimal UX disruption
+- 🔄 Implemented & maintained **20+ Airflow DAGs** orchestrating end-to-end data pipelines — scheduling, retries & dependency management across multiple data sources
+- 📈 Built Python pipelines to ingest, transform & publish **500+ time-series curves** for internal teams & external customers
+
+- 🧠 **Anthropic CCAR-F Certified** — Score 770/1000 — architecting, building & reasoning about production-grade agentic systems with Claude: agentic loops, multi-agent orchestration, tool/MCP design, prompt engineering & context management
 - ☁️ **AWS Certified** — 15+ AWS services in production across multiple enterprise platforms
-- 🌍 7+ years remote collaboration with European teams across green energy, recruitment & transportation
-- 👨‍🏫 Mentored **20+ junior engineers** on backend systems, cloud & distributed design
+- 👨‍🏫 Mentored **20+ junior engineers** on backend systems, cloud & distributed design and **100+ university** students in algorithms and data structures over multiple years
 - 🏆 Competitive programmer — **HackerRank 2237 · CodeChef 2001 · Codeforces 1554**
 
 
@@ -52,69 +53,16 @@ focus       : Backend Architecture · Distributed Systems · Cloud Infrastructur
 </div>
 
 ---
-## 🛠️ Tech Arsenal
 
-
-<!-- Category breakdown table -->
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <h4>⚡ Backend Languages</h4>
-      <code>Python</code> <code>JavaScript (Node)</code> <code>C++</code>
-      <br><br>
-      <h4>🧩 Backend Frameworks</h4>
-      <code>Django</code> <code>Django REST Framework</code> <code>Celery</code> <code>Pandas</code>
-      <br><br>
-      <h4>🔀 Messaging & Streaming</h4>
-      <code>Apache Kafka</code> <code>Redis Pub/Sub</code>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h4>🗄️ Databases</h4>
-      <code>PostgreSQL</code> <code>DynamoDB</code> <code>MongoDB</code> <code>Redis</code> <code>Apache Solr</code>
-      <br><br>
-      <h4>☁️ Cloud & Infrastructure</h4>
-      <code>AWS (15+ svcs)</code> <code>GCP</code> <code>Docker</code> <code>Kubernetes</code>
-      <br><br>
-      <h4>📊 Observability</h4>
-      <code>Prometheus</code> <code>Grafana</code>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h4>🏗️ Engineering Practices</h4>
-      <code>System Design</code> <code>Distributed Systems</code> <code>REST APIs</code> <code>Microservices</code>
-      <br><br>
-      <h4>🚀 CI/CD & Delivery</h4>
-      <code>GitHub Actions</code> <code>CI/CD</code> <code>Trunk-Based Dev</code> <code>Git</code>
-      <br><br>
-      <h4>📋 Process</h4>
-      <code>Agile/Scrum</code> <code>Jira</code> <code>Code Review</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="border-top: 1px solid #30363d; padding: 10px;">
-      <sub>· also ships frontend when the situation calls for it ·</sub><br>
-      <sub><code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>Tailwind CSS</code></sub>
-    </td>
-  </tr>
-</table>
-
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/darkprinx/break-the-ice-with-python" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=break-the-ice-with-python&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="140" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/darkprinx/rag-app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkprinx&repo=rag-app&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117" height="140" />
-  </a>
-</p>
+## 🚀 Independent Technical Works (Public)
 
 > 🐍 **[break-the-ice-with-python](https://github.com/darkprinx/break-the-ice-with-python)** — 100+ Python problems with detailed solutions. **3,100+ ⭐ · 1,500+ forks** — helping thousands of developers learn Python fundamentals.
+>
+> <a href="https://github.com/darkprinx/break-the-ice-with-python" target="_blank"><img src="https://img.shields.io/github/stars/darkprinx/break-the-ice-with-python?style=flat-square&color=70A5FD&label=Stars" /></a>&nbsp;<a href="https://github.com/darkprinx/break-the-ice-with-python/network/members" target="_blank"><img src="https://img.shields.io/github/forks/darkprinx/break-the-ice-with-python?style=flat-square&color=70A5FD&label=Forks" /></a>&nbsp;<img src="https://img.shields.io/github/languages/top/darkprinx/break-the-ice-with-python?style=flat-square&color=70A5FD" />
 
 > 🤖 **[rag-app / Marginalia](https://github.com/darkprinx/rag-app)** — Chat with your documents. Upload PDFs or markdown, get streamed answers with inline citations pinned to the source passage. Built with Next.js, Gemini embeddings & SQLite vector store.
+>
+> <a href="https://github.com/darkprinx/rag-app" target="_blank"><img src="https://img.shields.io/github/stars/darkprinx/rag-app?style=flat-square&color=70A5FD&label=Stars" /></a>&nbsp;<a href="https://github.com/darkprinx/rag-app/network/members" target="_blank"><img src="https://img.shields.io/github/forks/darkprinx/rag-app?style=flat-square&color=70A5FD&label=Forks" /></a>&nbsp;<img src="https://img.shields.io/github/languages/top/darkprinx/rag-app?style=flat-square&color=70A5FD" />
 
 <p align="center">
   <a href="https://github.com/darkprinx?tab=repositories&sort=stargazers" target="_blank">
@@ -125,31 +73,11 @@ focus       : Backend Architecture · Distributed Systems · Cloud Infrastructur
 
 ---
 
-<!-- Certifications -->
-## 📜 Certifications
-
-🔷 [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/aws-solutions-architect-associate) &nbsp;·&nbsp; Amazon Web Services &nbsp;·&nbsp; *Feb 2020*
-
-⚡ [**Professional Scrum Master™ I (PSM I)**](https://www.scrum.org/user/1145097/) &nbsp;·&nbsp; Scrum.org
-
----
-
-<!-- Dev Quote -->
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats & Metrics
 
 <!-- Profile details / contribution graph -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darkprinx&theme=tokyonight" width="100%" />
-</p>
+
 
 <!-- Three stat cards -->
 <p align="center">
@@ -187,26 +115,19 @@ focus       : Backend Architecture · Distributed Systems · Cloud Infrastructur
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://linkedin.com/in/rctushar07" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a><br><br>
       <b>LinkedIn</b><br>
       <sub>Professional network &<br>work experience</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="mailto:rctushar07@gmail.com">
         <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
       </a><br><br>
       <b>Email</b><br>
       <sub>For direct communication<br>& project inquiries</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/darkprinx" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a><br><br>
-      <b>GitHub</b><br>
-      <sub>Explore my repositories<br>& contributions</sub>
     </td>
   </tr>
 </table>
